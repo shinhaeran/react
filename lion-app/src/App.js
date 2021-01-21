@@ -226,3 +226,8 @@ componentWillUnmount
 1. 데이터 요청, 비동기함수, 타이머 종료할 때 
 2. setstate x
 */
+
+/* hook
+function component에 state를 사용할 수 있다 -> hook으로!
+참고: https://ko.reactjs.org/docs/hooks-intro.html
+*/
